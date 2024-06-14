@@ -29,7 +29,7 @@ export default function Home() {
         autoAlpha: 1,
         scale: 1.2,
         yPercent: 10,
-        duration: 2.5,
+        duration: 2.8,
         ease: "power2.inOut",
       });
       gsap.to(".fadeout", {
